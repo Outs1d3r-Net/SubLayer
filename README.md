@@ -2,7 +2,7 @@
 Scan de padrões com Yara   
 [![Banner](bng/banner.png)]()    
   
-> [By](https://github.com/le0henr1que/ "le0henr1que")  
+> [By: le0henr1que](https://github.com/le0henr1que/ "le0henr1que")  
 
 ### Download:  
 ```
